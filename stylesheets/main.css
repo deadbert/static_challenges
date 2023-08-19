@@ -1,0 +1,30 @@
+#titleBar {
+  display: inline-block;
+  background-color: red;
+  height: 200;
+  width: 100%;
+}
+
+h1 {
+  font-size: 42px;
+  color: white
+}
+
+h2 {
+  font-size: 24px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+#navBar {
+  display: inline-block;
+  background-color: dimgrey;
+  width: 100%;
+  text-align: right;
+}
+
+#footer {
+  width: 100%;
+  background-color: dimgray;
+}
+
